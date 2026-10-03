@@ -217,27 +217,6 @@ Collaborated with a team to design and prototype a solution under time constrain
 
 ---
 
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanthg1209&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=e0e7ff&area=true&area_color=7c3aed&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ishanthg1209/ishanthg1209/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
