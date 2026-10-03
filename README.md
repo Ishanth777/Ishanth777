@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=220&section=header&text=Ishanth%20G&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20%7C%20Full%20Stack&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-<a href="https://github.com/ishanthg1209">
+<a href="https://github.com/Ishanth777">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+production-grade+RAG+systems;Full+stack+engineering+with+a+product+mindset;LLM+orchestration+%7C+Guardrails+%7C+Observability;500%2B+LeetCode+problems+solved" alt="Typing SVG" />
 </a>
 
@@ -16,9 +16,9 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ishanthg1209)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanthg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanth-g-785653328)
 [![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishanthg1209@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishanthg1209)
+[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishanth777)
 
 <br/>
 
