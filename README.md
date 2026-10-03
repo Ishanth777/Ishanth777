@@ -105,7 +105,7 @@ A modular retrieval-augmented generation platform for querying documents in real
 | **Performance** | Caching and Groq inference for low-latency real-time document querying |
 | **Security** | LLM guardrails and a gateway layer to improve reliability and control model behavior |
 | **Impact** | End-to-end traceability of LLM workflows for debugging and performance monitoring |
-| **Repository** | [View on GitHub](https://github.com/ishanthg1209) |
+| **Repository** | [View on GitHub]((https://github.com/Ishanth777/production-grade-rag-application)) |
 
 The pipeline uses LangGraph to orchestrate retrieval and generation, Qdrant for semantic search, and Logfire to trace each step, making it straightforward to inspect behavior and improve efficiency.
 
@@ -125,7 +125,7 @@ A full stack platform for discovering destinations, exploring activities, and bu
 | **Performance** | Responsive interface with efficient destination search |
 | **Security** | Structured API layer with user-scoped data handling |
 | **Impact** | Destination search, trip organization, and recommendation features in one place |
-| **Repository** | [View on GitHub](https://github.com/ishanthg1209) |
+| **Repository** | [View on GitHub]((https://github.com/Ishanth777/wanderFreaks)) |
 
 The backend exposes clean REST endpoints over MongoDB, while the frontend focuses on a simple planning flow from discovery to a finished itinerary.
 
@@ -145,7 +145,7 @@ A MERN stack ordering platform that lets students and staff browse menus, place 
 | **Performance** | Responsive React frontend for menu browsing, cart, and checkout |
 | **Security** | Account-based ordering with server-side order handling |
 | **Impact** | Online ordering and live order tracking for campus canteen users |
-| **Repository** | [View on GitHub](https://github.com/ishanthg1209) |
+| **Repository** | [View on GitHub](https://github.com/Ishanth777/campuscravings) |
 
 The application covers the full ordering lifecycle, from browsing to checkout to order tracking, backed by RESTful APIs.
 
@@ -189,20 +189,6 @@ Collaborated with a team to design and prototype a solution under time constrain
 
 ---
 
-## Certifications
-
-<div align="center">
-
-| Provider | Status |
-| :-- | :-- |
-| ![AWS](https://img.shields.io/badge/AWS-4C1D95?style=for-the-badge&logo=amazonwebservices&logoColor=white) | Add certifications here |
-| ![Oracle](https://img.shields.io/badge/Oracle-6D28D9?style=for-the-badge&logo=oracle&logoColor=white) | Add certifications here |
-| ![NPTEL](https://img.shields.io/badge/NPTEL-7C3AED?style=for-the-badge) | Add certifications here |
-| ![Cisco](https://img.shields.io/badge/Cisco-4338CA?style=for-the-badge&logo=cisco&logoColor=white) | Add certifications here |
-
-</div>
-
----
 
 ## Coding Profiles
 
@@ -231,15 +217,6 @@ Collaborated with a team to design and prototype a solution under time constrain
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ishanthg1209&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-
-</div>
-
----
 
 ## Contribution Activity
 
@@ -291,8 +268,8 @@ Open To:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishanthg1209@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanthg)
-[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishanthg1209)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanth-g-785653328)
+[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishanth777)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ishanthg1209)
 
 </div>
